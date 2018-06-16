@@ -5,6 +5,5 @@
 </head>
 <body>
 $END$
-哈哈
 </body>
 </html>
