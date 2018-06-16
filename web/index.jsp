@@ -8,7 +8,5 @@
 </head>
 <body>
 $END$
-呵呵呵
-扔
 </body>
 </html>
